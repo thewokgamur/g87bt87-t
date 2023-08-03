@@ -1,0 +1,10 @@
+x = 25
+y = 8
+y += 3
+print ("penjumlahan =",x+y)
+print ("pengurangan =",x-y)
+print ("perkalian =",x*y)
+print ("pembagian =",x/y)
+print ("modus =",x%y)
+print ("pangkat =",x**y)
+print ("pembulatan =",x//y)
